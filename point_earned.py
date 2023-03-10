@@ -17,4 +17,3 @@ elif "weight" >= 400:
     print("You have 400 points")
 else:
     "return" ("incorrect_input")
-
