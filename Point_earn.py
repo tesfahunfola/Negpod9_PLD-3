@@ -16,3 +16,6 @@ elif "weight" >= 200:
     print("You have 200 points")
 elif "weight" >= 400:
     print("You have 400 points")
+
+else:
+    "return" ("display_disposal_history")
