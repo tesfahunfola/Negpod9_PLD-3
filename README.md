@@ -17,6 +17,7 @@ confirm trial 1.py
 The confirm trial 1 prompts the user to confirm the type of waste they want to dispose and if it is valid they continue with the operation so as to open the respective bins
 
 confirm trial 2.py
+
 The confirm trial 2 asks the user if they are sure with the input they chose.if yes they continue to open the specific bin and if no they are prompted to go back to the main menu
 
 openbin trial.py
