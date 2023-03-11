@@ -8,3 +8,11 @@ def display_disposal_history(disposal_history):
     print("Disposal history:")
     for i, (points, date) in enumerate(disposal_history):
         print(f"{i+1}. {date}: {points} points")
+         
+
+if "weight" <= 200:
+    print("You have 100 points")
+elif "weight" >= 200:
+    print("You have 200 points")
+elif "weight" >= 400:
+    print("You have 400 points")
